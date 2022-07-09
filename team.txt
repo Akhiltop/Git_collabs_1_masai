@@ -1,0 +1,11 @@
+
+Name of team: Git_collabs_1_masai
+Team number: 101
+
+Team members:
+
+fw20_1107	Abhishek	abhi533784@gmail.com
+fw20_1109	Shwetanshu Shekhar	shwetanshu2412@gmail.com	
+fw20_1110	Vinay Rinait	vinaymasai1998@gmail.com	
+fw20_1112	Akhil Yadlapalli	akhilyadlapalli@gmail.com	
+fw20_1113	Manish kumar Gupta	manscans16@gmail.com	
